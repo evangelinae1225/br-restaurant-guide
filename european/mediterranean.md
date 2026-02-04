@@ -1,7 +1,7 @@
 # Bay Ridge Restaurant Guide
 ## European --> mediterranean
 ---
-Select a specific European food:
+Select a restaurant:
 ## [Tanoreen](https://tanoreen.com/)
 ## [Le sajj](https://www.lesajj.com/)
 
